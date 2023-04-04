@@ -1,0 +1,76 @@
+/* * {
+  font-family: "Roboto", sans-serif;
+} */
+
+@keyframes click-wave {
+  0% {
+    height: 40px;
+    width: 40px;
+    opacity: 0.35;
+    position: relative;
+  }
+  100% {
+    height: 200px;
+    width: 200px;
+    margin-left: -80px;
+    margin-top: -80px;
+    opacity: 0;
+  }
+}
+
+.navs-slide {
+  position: fixed;
+  float: right;
+  top: 100px;
+  right: -325px;
+  width: 325px;
+  background: transparent;
+}
+.btn-slide {
+  position: absolute;
+  top: 60px;
+  right: 325px;
+  float: right;
+  padding: 10px;
+  background: rgb(226, 226, 226);
+  cursor: pointer;
+}
+.btn-slide i {
+  opacity: 0.7;
+}
+
+.head-slide {
+  position: relative;
+  top: 0;
+  right: 0px;
+  width: 100%;
+  font-weight: bold;
+  padding: 11px;
+  margin: 0;
+  background: #9c118c;
+  color: #fff;
+  cursor: pointer;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+/* .navs {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background: #ccc;
+  border-bottom-right-radius: 5px;
+}
+.navs li {
+}
+.navs li a {
+  display: block;
+  padding: 5px 0 5px 10px;
+}
+.navs li a:hover {
+  text-decoration: none;
+  background: #aaa;
+  color: #fff;
+}
+.navs-body:last-child .navs li:last-child a {
+  border-bottom-right-radius: 5px;
+} */

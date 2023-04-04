@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.gonative.android.qroarb",
+            "sha256_cert_fingerprints": [
+                "6E:30:69:5C:3F:1D:4E:4B:B8:4A:C2:AD:12:C6:1A:5F:AA:00:F7:7D:6A:49:96:A5:DE:66:4F:2D:99:C1:95:C5"
+            ]
+        }
+    }
+]

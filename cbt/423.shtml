@@ -1,0 +1,22 @@
+<!DOCTYPE html> 
+<html style="height:100%"> 
+<head> 
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" > 
+	<title> Terkunci </title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" href="dist/img/favicon.ico"/>
+	<link rel="stylesheet" type="text/css" href="dist/vendor/bootstrap/css/bootstrap.min.css">
+</head> 
+<body> 
+	<div> 
+		<div style="text-align: center; position:absolute; top: 25%; left:0; right:0"> 
+			<img src='dist/img/locked_animated1.gif' class='img-fluid'>
+			<h2 style="font-size: 30px;">Locked </h2> 
+			<p>The resource requested could locked on this server!</p> 
+		</div>
+	</div>
+	<script src="dist/vendor/jquery/jquery-3.2.1.min.js"></script>
+	<script src="dist/vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script src="dist/js/main.js"></script>
+</body>
+</html>
