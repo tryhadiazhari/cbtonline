@@ -1,0 +1,566 @@
+CRITICAL - 2022-03-31 00:54:16 --> Invalid argument supplied for foreach()
+#0 /home/u6586035/public_html/hazeduca/app/Views/pdidik.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/u6586035/...', 81, Array)
+#1 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/View/View.php(210): include('/home/u6586035/...')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(1089): CodeIgniter\View\View->render('pdidik', Array, true)
+#4 /home/u6586035/public_html/hazeduca/app/Controllers/Mapel.php(27): view('pdidik', Array)
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(825): App\Controllers\Mapel->index()
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mapel))
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 01:44:27 --> Too few arguments to function App\Controllers\Api::banksoal(), 1 passed in /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php on line 825 and at least 2 expected
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(825): App\Controllers\Api->banksoal('null')
+#1 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 01:45:22 --> Too few arguments to function App\Controllers\Api::banksoal(), 1 passed in /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php on line 825 and at least 2 expected
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(825): App\Controllers\Api->banksoal('null')
+#1 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 01:46:18 --> Too few arguments to function App\Controllers\Api::banksoal(), 1 passed in /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php on line 825 and at least 2 expected
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(825): App\Controllers\Api->banksoal('null')
+#1 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 01:46:18 --> Too few arguments to function App\Controllers\Api::banksoal(), 1 passed in /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php on line 825 and at least 2 expected
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(825): App\Controllers\Api->banksoal('null')
+#1 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 01:47:02 --> Too few arguments to function App\Controllers\Api::banksoal(), 1 passed in /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php on line 825 and at least 2 expected
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(825): App\Controllers\Api->banksoal('null')
+#1 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 01:47:02 --> Too few arguments to function App\Controllers\Api::banksoal(), 1 passed in /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php on line 825 and at least 2 expected
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(825): App\Controllers\Api->banksoal('null')
+#1 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 01:47:02 --> Too few arguments to function App\Controllers\Api::banksoal(), 1 passed in /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php on line 825 and at least 2 expected
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(825): App\Controllers\Api->banksoal('null')
+#1 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api))
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-03-31 08:30:23 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:30:23 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:30:27 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:30:27 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:30:41 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:30:41 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:31:59 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:31:59 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:35:04 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:35:04 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:35:46 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:35:46 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:36:21 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:36:21 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:39:32 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:39:32 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:39:41 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:39:41 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:39:42 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:39:42 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:39:46 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:39:46 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:39:46 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:39:46 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:52:03 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:52:03 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:58:34 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:58:34 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:59:10 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:59:10 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:59:15 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:59:15 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:59:17 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:59:17 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:59:23 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:59:23 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:59:27 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:59:27 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:59:31 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:59:31 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:59:33 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:59:33 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:59:34 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:59:34 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 08:59:35 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 08:59:35 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 09:09:01 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 09:09:01 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 11:19:09 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 11:19:09 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 11:19:12 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 11:19:12 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
+ERROR - 2022-03-31 11:43:06 --> Error connecting to the database: User **** already has more than 'max_user_connections' active connections
+CRITICAL - 2022-03-31 11:43:06 --> Unable to connect to the database.
+Main connection [MySQLi]: User **** already has more than 'max_user_connections' active connections
+#0 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Handlers/DatabaseHandler.php(94): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('hazedu_sessions', 'hazedu_session')
+#2 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(894): session_start()
+#3 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Session/Session.php(238): CodeIgniter\Session\Session->startSession()
+#4 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(577): CodeIgniter\Session\Session->start()
+#5 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#6 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#9 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/u6586035/public_html/hazeduca/app/Controllers/BaseController.php(93): session()
+#11 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#12 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#13 /home/u6586035/public_html/hazeduca/vendor/codeigniter4/framework/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#14 /home/u6586035/public_html/hazeduca/index.php(37): CodeIgniter\CodeIgniter->run()
+#15 {main}
